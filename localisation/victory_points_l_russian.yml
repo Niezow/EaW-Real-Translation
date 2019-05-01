@@ -33,7 +33,7 @@
  VICTORY_POINTS_351:0 "Новочернушск" ##Novoczernuszsk
  VICTORY_POINTS_6023:0 "Луна Нова" ##Luna Nova
  VICTORY_POINTS_907:0 "Блум" ##Blum
- VICTORY_POINTS_6412:0 "Мид Резорт" ## Mead Resort 
+ VICTORY_POINTS_6412:0 "Медовый Курорт" ##Мид Резорт?? Mead Resort 
  VICTORY_POINTS_6846:0 "Цервус" ##Cervus
  VICTORY_POINTS_886:0 "Хирвикаупунки" ##Hirvikaupunki
  VICTORY_POINTS_6950:0 "Сакара" ##Sakara
@@ -48,10 +48,10 @@
  VICTORY_POINTS_6311:0 "Эпплвуд" ##Applewood
  ##VICTORY_POINTS_6165:0 "Винсом-Фоллс" ##Winsome Falls
  VICTORY_POINTS_9406:0 "Малиновая Роща" ##Raspberry Groove
- VICTORY_POINTS_9477:0 "Порридж Таун" ##Porridge Town
- VICTORY_POINTS_3082:0 "Деревня На Севере" ##Village Up North
+ VICTORY_POINTS_9477:0 "Кашино" ##Porridge Town
+ VICTORY_POINTS_3082:0 "Северная Деревня" ##Village Up North
  VICTORY_POINTS_3727:0 "Пранс" ##Prance
- VICTORY_POINTS_963:0 "Гавань Мунлайт" ##Moonlight Bay
+ VICTORY_POINTS_963:0 "Луносветная Гавань" ##Moonlight Bay
  VICTORY_POINTS_6355:0 "Совёнок" ##Sovenok
  VICTORY_POINTS_9235:0 "Фростхилл" ##Frosthill
  VICTORY_POINTS_9150:0 "Понитаун" ##Ponytown
@@ -71,7 +71,7 @@
  VICTORY_POINTS_11109:0 "Сноуибьюри" ##Snowybury
  VICTORY_POINTS_316:0 "Рабрум" ##Rubrum
  VICTORY_POINTS_304:0 "Квебак" ##Quebuck
- VICTORY_POINTS_9275:0 "Эвергрин" ##Evergreen
+ VICTORY_POINTS_9275:0 "Вечнозелень" ##Evergreen
  VICTORY_POINTS_9378:0 "Барад-дур" ##Bara'dur
  VICTORY_POINTS_668:0 "Портленд" ##Portland
  VICTORY_POINTS_405:0 "Солтмейн" ##Saltmane
@@ -108,7 +108,7 @@
  VICTORY_POINTS_1948:0 "Лауген" ##Laugen
  VICTORY_POINTS_10631:0 "Марчон" ##Marçon
  VICTORY_POINTS_1792:0 "Весттри" ##Westtry
- VICTORY_POINTS_6997:0 "Фезара" ##Feathara
+ VICTORY_POINTS_6997:0 "Фезера" ##Feathara
  VICTORY_POINTS_3144:0 "Карфин" ##Karthin
  VICTORY_POINTS_11094:0 "Вингполи" ##Wingpoli
  VICTORY_POINTS_9118:0 "Талькара" ##Talcara
@@ -134,7 +134,7 @@
  VICTORY_POINTS_1084:0 "Римау" ##Rimau
  VICTORY_POINTS_12921:0 "Голдстоун" ##Goldstone
  VICTORY_POINTS_7210:0 "Сильверстоун" ##Silverstone
- VICTORY_POINTS_5203:0 "Копперхилл" ##Copperhill
+ VICTORY_POINTS_5203:0 "Медная Гора" ##Copperhill
  VICTORY_POINTS_10598:0 "Холлхаус" ##Hallhaus
  VICTORY_POINTS_4578:0 "Лишилл" ##Lishill
  VICTORY_POINTS_3753:0 "Эписир" ##Épisir
@@ -147,7 +147,7 @@
  VICTORY_POINTS_12903:0 "Голдмайр" ##Goldmire
  VICTORY_POINTS_4367:0 "Квоптия" ##Qwoptia
  VICTORY_POINTS_12436:0 "Твельт" ##Twelt
- VICTORY_POINTS_874:0 "Саммерфилд" ##Summerfield
+ VICTORY_POINTS_874:0 "Солнечные Поля" ##Summerfield
  VICTORY_POINTS_1027:0 "Ромау" ##Romau
  VICTORY_POINTS_4071:0 "Западный Город" ##Western Town
  VICTORY_POINTS_10537:0 "Гриффенхейм" ##Griffenheim
@@ -160,7 +160,7 @@
  VICTORY_POINTS_5005:0 "Баксбэйн" ##Bucksbane
  VICTORY_POINTS_11071:0 "Мейнбурн" ##Manebourne
  VICTORY_POINTS_869:0 "Бордо" ##Bordo
- VICTORY_POINTS_1614:0 "Сиуард Шоалс" ##Seaward Shoals
+ VICTORY_POINTS_1614:0 "Берег Моря" ##Seaward Shoals
  VICTORY_POINTS_3983:0 "Красное" ##Krasnoye
  VICTORY_POINTS_3242:0 "Кобылкино" ##Kobilkino
  VICTORY_POINTS_9332:0 "Северокгольм" ##Severokholm
@@ -248,7 +248,7 @@
  VICTORY_POINTS_9463:0 "Федерштадт" ##Federstadt
  VICTORY_POINTS_3844:0 "Мейнсбьюри" ##Manesbury
  VICTORY_POINTS_9208:0 "Троттерфилд" ##Trotterfield
- VICTORY_POINTS_9463:0 "Псоденштадт" ##Psodenstadt
+ VICTORY_POINTS_9463:0 "Псодиштадт" ##Psodenstadt
  VICTORY_POINTS_4821:0 "Зинтен" ##Zinten
  VICTORY_POINTS_2179:0 "Ортельсберг" ##Ortelsberg
  VICTORY_POINTS_12468:0 "Вингенберг" ##Wingenberg
@@ -263,16 +263,16 @@
  VICTORY_POINTS_12307:0 "Элизиум" ##Elysium
  VICTORY_POINTS_9946:0 "Мануфактура Асинтия" ##Asinti's Workshop
  VICTORY_POINTS_4557:0 "Башня Леопольда" ##Leopold's Tower
- VICTORY_POINTS_2154:0 "Калинтск" ##Kalintsk
+ VICTORY_POINTS_2154:0 "Калининск" ##Kalintsk
  VICTORY_POINTS_1960:0 "Шклоша" ##Shklosha
  VICTORY_POINTS_8054:0 "Воронашка" ##Voronaska
- VICTORY_POINTS_1969:0 "Орелтск" ##Oreltsk
+ VICTORY_POINTS_1969:0 "Орельск" ##Oreltsk
  VICTORY_POINTS_11879:0 "Соватск" ##Sovatsk
  VICTORY_POINTS_6989:0 "Скопардовское" ##Skopardovsky
  VICTORY_POINTS_11893:0 "Хусака" ##Husaka
  VICTORY_POINTS_6811:0 "Голубашка" ##Holubaska
  VICTORY_POINTS_2083:0 "Хольдкрестов" ##Holdkrestov
- VICTORY_POINTS_10746:0 "Воробей" ##Vorobey
+ VICTORY_POINTS_10746:0 "Воробейко" ##Vorobey
  VICTORY_POINTS_4107:0 "Висагинас" ##Visaginas
  VICTORY_POINTS_5038:0 "Варена" ##Varėna
  VICTORY_POINTS_10894:0 "Купищкис" ##Kupiškis
@@ -296,10 +296,10 @@
  VICTORY_POINTS_1425:0 "Засэддл" ##Zasaddle
  VICTORY_POINTS_7986:0 "Бакс" ##Bucks
  VICTORY_POINTS_6757:0 "Кольтьево" ##Coltljevo
- VICTORY_POINTS_1885:0 "Нови Понецар" ##Novi Ponezar
- VICTORY_POINTS_7702:0 "Далуотер" ##Dullwater
+ VICTORY_POINTS_1885:0 "Нови Понезар" ##Novi Ponezar
+ VICTORY_POINTS_7702:0 "Тускловодье" ##Dullwater
  VICTORY_POINTS_4643:0 "Дримлиф" ##Dreamleaf
- VICTORY_POINTS_3962:0 "Блэкуотер" ##Blackwater
+ VICTORY_POINTS_3962:0 "Черноводье" ##Blackwater
  VICTORY_POINTS_7737:0 "Догтаун" ##Dogtown
  VICTORY_POINTS_12040:0 "Сайбург" ##Saiburg
  VICTORY_POINTS_8026:0 "Оригако" ##Origako
@@ -320,3 +320,19 @@
  VICTORY_POINTS_212:0 "Мёрён" ##Mörön
  VICTORY_POINTS_9411:0 "Клюв Хот" ##Kluv Khot
  VICTORY_POINTS_9339:0 "Гол Гююр" ##Gol Güür
+
+ ##VICTORY_POINTS_7055:0 "Ландстал" ##Landstal
+ ##VICTORY_POINTS_10042:0 "Рэйвенсбург" ##Ravensburg
+ ##VICTORY_POINTS_8215:0 "Кроустанц" ##Crowstanz
+ ##VICTORY_POINTS_1138:0 "Хундефельд" ##Hundefeld
+ ##VICTORY_POINTS_9972:0 "Пфотенхаусен" ##Pfotenhausen
+ ##VICTORY_POINTS_12943:0 "Баркгенц" ##Barkgenz
+ ##VICTORY_POINTS_4573:0 "Бронзкройц" ##Bronzekreuz
+ ##VICTORY_POINTS_12364:0 "Шванцхаусен" ##Schwanzhausen
+ ##VICTORY_POINTS_4113:0 "Беллен" ##Bellen
+ ##VICTORY_POINTS_1254:0 "Каза-Гулл" ##Kaza-Gull
+ ##VICTORY_POINTS_12298:0 "Вар-Сильфур" ##Var-Silfur
+ ##VICTORY_POINTS_10981:0 "Каза-Фрельси" ##Kaza-Frelsi
+ ##VICTORY_POINTS_12763:0 "Ваальдаал" ##Waaldaal
+ ##VICTORY_POINTS_4106:0 "Аллвердер" ##Allwerder
+ 
